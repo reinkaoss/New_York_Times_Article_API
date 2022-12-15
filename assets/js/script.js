@@ -29,5 +29,8 @@ $.ajax({
       var pubDate = results[i].pub_date;
       var headline = results[i].headline.main;
       var source = results[i].source;
+      var thumbnail = results[i].multimedia[19].url;
     }
   });
+https://www.nytimes.com/ + images/2022/11/09/us/09-pol-trump-1/09-pol-trump-1-thumbStandard.jpg
+  
