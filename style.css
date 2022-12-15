@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+    font-weight: bolder;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+
+.jumbotron{
+    background-color: darkblue ;
+    margin: 20px;
+    padding: 2rem 2rem;
+    height: 200px;
+}
+
+.card {
+    margin: 20px;;
+}
+
+label {
+    margin-bottom: 15px;
+}
+
+button{
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.buttonsContainer {
+    margin: 0;
+}
+
+.articles {
+
+}
+
+.icon {
+    display: flex;
+    width: 100px;
+    margin: 0 !important;
+}
